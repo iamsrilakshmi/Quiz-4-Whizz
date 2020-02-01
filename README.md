@@ -1,7 +1,8 @@
 # [QUIZ 4 WHIZZ ](https://github.com/srilakshmiimhskalirs/Quiz-4-Whizz/blob/master/Quiz%204%20Whizz%20.py)
 
-This is a simple Quiz Project created using Python Tuples
-This quiz consists of 10 Questions & Answers.
+This is a simple Quiz Project created using Python Tuples.
+
+This quiz consists of 10 Questions.
 
 ## FEATURES:
 
